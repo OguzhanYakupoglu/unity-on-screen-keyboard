@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4693d88bbfc22f94e9bba0099804535c, type: 3}
+  m_Name: Keyboard Settings_Pink
+  m_EditorClassIdentifier: 
+  initialRepeatDelay: 0.35
+  minRepeatDelay: 0.025
+  repeatAcceleration: 0.1
+  keyFont: {fileID: 11400000, guid: ba5ec7a4ff9fb124cb8e9e60fef75c63, type: 2}
+  keyboardColor: {r: 1, g: 0.5707547, b: 0.94692975, a: 1}
+  keyColor: {r: 1, g: 0.7877358, b: 0.9727367, a: 1}
+  keyInnerColor: {r: 0, g: 0, b: 0, a: 1}
+  pressedKeyColor: {r: 0.5188679, g: 0.2961463, b: 0.49026147, a: 1}
+  pressedInnerKeyColor: {r: 1, g: 1, b: 1, a: 1}
